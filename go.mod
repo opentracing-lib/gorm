@@ -8,7 +8,7 @@ require (
 	github.com/opentracing-contrib/sql v0.0.0-20191016160643-5c2172400eb5
 	github.com/opentracing/opentracing-go v1.1.0
 	github.com/pkg/errors v0.8.1
-	golang.org/x/crypto v0.0.0-20190621222207-cc06ce4a13d4 // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 )
 
 replace github.com/opentracing-contrib/sql => github.com/opentracing-lib/sql v0.0.0-20191016160643-5c2172400eb5
